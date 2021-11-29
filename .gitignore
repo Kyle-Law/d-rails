@@ -66,3 +66,6 @@ bin/dbimport
 
 /app/assets/builds/*
 !/app/assets/builds/.keep
+
+# Ignore application configuration
+/config/application.yml
